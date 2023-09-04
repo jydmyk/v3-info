@@ -136,7 +136,7 @@
     "apollo-cache-inmemory": "^1.6.6",
     "apollo-client": "^2.6.10",
     "apollo-link-http": "^1.5.17",
-    "dayjs": "^1.10.4",
+    "dayjs": "^1.11.9",
     "graphql": "^15.5.0",
     "graphql-tag": "^2.11.0",
     "lightweight-charts": "^3.3.0",
